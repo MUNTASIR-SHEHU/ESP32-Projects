@@ -3,8 +3,8 @@
 #include "DHT.h"
 
 // Your Adafruit IO Credentials
-#define IO_USERNAME  "MGS12"
-#define IO_KEY       "aio_MNoR35XGbOsvMIAEPMaGa5DUU9cf"
+#define IO_USERNAME  //"add user name from adafruit"
+#define IO_KEY       //"add IO key from adafruit"
 
 // Your Wi-Fi Credentials
 #define WIFI_SSID    "iPhone"
