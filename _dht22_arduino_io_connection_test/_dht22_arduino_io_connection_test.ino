@@ -3,12 +3,12 @@
 #include "DHT.h"
 
 // Your Adafruit IO Credentials
-#define IO_USERNAME  //"add user name from adafruit"
-#define IO_KEY       //"add IO key from adafruit"
+#define IO_USERNAME  "add user name from adafruit"
+#define IO_KEY       "add IO key from adafruit"
 
 // Your Wi-Fi Credentials
-#define WIFI_SSID    "iPhone"
-#define WIFI_PASS    "Zarm9795"
+#define WIFI_SSID    "wifi name"
+#define WIFI_PASS    "wifi password"
 
 const int DHTPIN = 14;     
 #define DHTTYPE DHT22
